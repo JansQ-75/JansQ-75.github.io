@@ -7,7 +7,7 @@ layout: default
 
 ![Kuva](kuva1.jpg)
 
- Olen Janina[^1] ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
+ Olen Janina[^1] ja opiskelen[^4] nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
 ## Opinnoista
@@ -27,9 +27,9 @@ layout: default
 **SOVELLUSPROJEKTIT**
 
 - Tietotekniikka
-    - [_"Speden Spelit"_](https://github.com/JansQ-75/SpedenSpelit)[^2]
+    - _"Speden Spelit"_[^2]
 - Ohjelmistokehitys
-    - [_"Riihimaatti"_](https://github.com/JansQ-75/Riihimaatti)
+    - _"Riihimaatti"_[^3]
 
 **KEVÄT 2025**
 
@@ -50,6 +50,8 @@ layout: default
 
 > **HUOM!** Videoissa on musiikkia. Ota huomioon äänenvoimakkuudessa.
 
-[^1]: [CV]("/JaninaCV.pdf")
-[^2]: [_"Speden Spelit"_](https://github.com/JansQ-75/SpedenSpelit)
+[^1]: [CV](omacv.png)
+[^2]: [Speden Spelit](https://github.com/JansQ-75/SpedenSpelit)
+[^3]:[Riihimaatti](https://github.com/JansQ-75/Riihimaatti)
+[^4]: [CVpdf](JaninaCV.pdf)
 
