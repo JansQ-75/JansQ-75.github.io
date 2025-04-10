@@ -14,7 +14,7 @@
  Olen Janina ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
- ## ![Kuva](/images/kuva1.jpg)
+ ## ![Kuva](kuva1.jpg)
 
  > [!WARNING]
  > Sisältö voi satuttaa silmiä!
