@@ -39,6 +39,8 @@ layout: default
 
  <ins>Pilvipalvelu -kurssin valmiit tehtävävideot:</ins>
 
+ > **HUOM!** Videoissa on musiikkia. Ota huomioon äänenvoimakkuudessa.
+
  - [Render.com PaaS](https://youtu.be/ZWVnigYuQog)
     - _web-sovellus käyttöönotettiin Render PaaS -pilvipalvelussa_
  - [AWS tutorial - Serverless Web Application](https://youtu.be/ZVSaVWmynuM)
@@ -47,8 +49,6 @@ layout: default
    - _web-sivusto käyttöönotettiin Cloudflaren git -integraation avulla_
  - [Azure AI Vision](https://youtu.be/yZuMA2BXN04)
    - _Azure AI Vision:n avulla analysoidaan kuvia_
-
-> **HUOM!** Videoissa on musiikkia. Ota huomioon äänenvoimakkuudessa.
 
 [^1]: [CV](JaninaCV.pdf)
 [^2]: [Speden Spelit](https://github.com/JansQ-75/SpedenSpelit)
