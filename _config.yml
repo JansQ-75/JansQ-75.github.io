@@ -1,4 +1,8 @@
 title: "Oma GitHub Pages -sivuni"
 description: "Tämä on minun projektini GitHub Pagesissa!"
-author: null  # Tämä estää tekijän nimen näyttämisen
+author: Janina Niemelä
+author:img: "/kuva1.jpg"  # Muuta tämä polku omaan kuvaasi
 theme: jekyll-theme-minimal  # Tämän voit vaihtaa toiseen teemaan, jos haluat
+navigation:
+  - title: "CV"
+    url: "/JaninCV.pdf"  # Muuta tämä polku omaan CV-tiedostoosi
