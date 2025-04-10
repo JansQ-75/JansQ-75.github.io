@@ -7,7 +7,7 @@ layout: default
 
 ![Kuva](kuva1.jpg)
 
- Olen Janina ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
+ Olen Janina[^1] ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
 ## Opinnoista
@@ -27,7 +27,7 @@ layout: default
 **SOVELLUSPROJEKTIT**
 
 - Tietotekniikka
-    - [_"Speden Spelit"_](https://github.com/JansQ-75/SpedenSpelit)
+    - [_"Speden Spelit"_](https://github.com/JansQ-75/SpedenSpelit)[^2]
 - Ohjelmistokehitys
     - [_"Riihimaatti"_](https://github.com/JansQ-75/Riihimaatti)
 
@@ -49,4 +49,7 @@ layout: default
    - _Azure AI Vision:n avulla analysoidaan kuvia_
 
 > **HUOM!** Videoissa on musiikkia. Ota huomioon äänenvoimakkuudessa.
+
+[^1]: [CV]("/JaninaCV.pdf")
+[^2]: [_"Speden Spelit"_](https://github.com/JansQ-75/SpedenSpelit)
 
