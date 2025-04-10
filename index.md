@@ -5,10 +5,12 @@
 
 ## Kuka olen?
 
+![Kuva](kuva1.jpg)
+
  Olen Janina ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
- ![Kuva](kuva1.jpg)
+ 
 
  ## Pilvipalvelu -kurssin valmiit tehtävävideot
 
