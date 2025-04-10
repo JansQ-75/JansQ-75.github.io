@@ -3,15 +3,16 @@ layout: default
 ---
 
 # It's me! Janina!
+---
 
 ![Kuva](kuva1.jpg)
 
  Olen Janina ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
- ## Opinnoista
+## Opinnoista
 
- **ICT-OPINNOT**
+**ICT-OPINNOT**
 
  - C-kieli
  - C++ / Olio-ohjelmointi
@@ -21,7 +22,7 @@ layout: default
  - Digitaalitekniikan perusteet
  - Sähköturvallisuus ja elektroniikan perusteet
  
- **SOVELLUSPROJEKTIT**
+**SOVELLUSPROJEKTIT**
 
 - Tietotekniikka
     - _"Speden Spelit"_
@@ -45,5 +46,5 @@ layout: default
  - [Azure AI Vision](https://youtu.be/yZuMA2BXN04)
    - _Azure AI Vision:n avulla analysoidaan kuvia_
 
-  > [!NOTE]
- >  Videoissa on **musiikkia**. Ota huomioon äänenvoimakkuudessa.
+> **HUOM!** Videoissa on musiikkia. Ota huomioon äänenvoimakkuudessa.
+
