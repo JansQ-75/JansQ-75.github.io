@@ -1,10 +1,8 @@
-title: "Oma GitHub Pages -sivuni"
-description: "Tämä on minun GitHub Pages -sivu on osa Pilvipalvelut -kurssia."
+title: "Tervetuloa!"
+description: "Tämä on oma GitHub Pages -sivuni, joka on osa Pilvipalvelut -kurssia."
 author: Janina Niemelä
 # Muuta tämä polku omaan kuvaasi
 theme: jekyll-theme-minimal  # Tämän voit vaihtaa toiseen teemaan, jos haluat
-navigation:
-  - title: "CV"
-    url: "/JaninaCV.pdf"
+
 
  

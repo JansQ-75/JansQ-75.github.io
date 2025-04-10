@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# It's me! Janina!
+# It's me! Janina! :wave:
 ---
 
 ![Kuva](kuva1.jpg)
@@ -11,6 +11,8 @@ layout: default
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
 ## Opinnoista
+
+---
 
 **ICT-OPINNOT**
 
@@ -25,9 +27,9 @@ layout: default
 **SOVELLUSPROJEKTIT**
 
 - Tietotekniikka
-    - _"Speden Spelit"_
+    - [_"Speden Spelit"_](https://github.com/JansQ-75/SpedenSpelit)
 - Ohjelmistokehitys
-    - _"Riihimaatti"_
+    - [_"Riihimaatti"_](https://github.com/JansQ-75/Riihimaatti)
 
 **KEVÄT 2025**
 
