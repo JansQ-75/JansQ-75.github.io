@@ -1,9 +1,8 @@
 ---
+layout: default
 ---
 
-# Tervetuloa!
-
-## Kuka olen?
+# It's me! Janina!
 
 ![Kuva](kuva1.jpg)
 

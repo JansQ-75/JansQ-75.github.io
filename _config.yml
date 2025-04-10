@@ -1,8 +1,27 @@
 title: "Oma GitHub Pages -sivuni"
 description: "Tämä on minun projektini GitHub Pagesissa!"
 author: Janina Niemelä
-author:img: "kuva1.jpg"  # Muuta tämä polku omaan kuvaasi
+author_image: "kuva1.jpg"  # Muuta tämä polku omaan kuvaasi
 theme: jekyll-theme-minimal  # Tämän voit vaihtaa toiseen teemaan, jos haluat
 navigation:
   - title: "CV"
-    url: "JaninCV.pdf"  # Muuta tämä polku omaan CV-tiedostoosi
+    url: "JaninCV.pdf"
+courses:
+  - name: "C-kieli"
+    description: "Perusteet ja ohjelmointi"
+  - name: "C++ / Olio-ohjelmointi"
+    description: "Perusteet ja ohjelmointi"
+  - name: "Linux Administration"
+    description: "Perusteet ja järjestelmänhallinta"
+  - name: "Tietokannat ja rajapinnat"
+    description: "MySQL ja REST API -rajapinnat"
+  - name: "Digitaalitekniikan perusteet"
+    description: "Perusteet ja sovellukset"
+  - name: "Sähköturvallisuus ja elektroniikan perusteet"
+    description: "Perusteet ja turvallisuus"
+  projects:
+    - name: "Tietotekniikka"
+      description: "SpedenSpelit"
+  - name: "Ohjelmistokehitys"
+    description: "Riihimaatti"
+ 
