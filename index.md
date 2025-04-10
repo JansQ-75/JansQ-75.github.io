@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# It's me! Janina! :wave:
+# It's me! Janina! 👋
 ---
 
 ![Kuva](kuva1.jpg)
 
- Olen Janina[^1] ja opiskelen[^4] nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
+ Olen Janina[^1] ja opiskelen nyt toista vuotta OAMK:ssa tieto- ja viestintätekniikkaa.
  Opintojen ohella työskentelen edelleen nykyisessä ammatissani - sairaanhoitajana. Asustelen Nokialla ja perheeseeni kuuluu miehen lisäksi kaksi lasta sekä kaksi karvakorvaa.
 
 ## Opinnoista
@@ -50,8 +50,8 @@ layout: default
 
 > **HUOM!** Videoissa on musiikkia. Ota huomioon äänenvoimakkuudessa.
 
-[^1]: [CV](omacv.png)
+[^1]: [CV](JaninaCV.pdf)
 [^2]: [Speden Spelit](https://github.com/JansQ-75/SpedenSpelit)
 [^3]:[Riihimaatti](https://github.com/JansQ-75/Riihimaatti)
-[^4]: [CVpdf](JaninaCV.pdf)
+
 
